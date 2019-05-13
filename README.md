@@ -7,6 +7,7 @@ molssi_develops
 
 A package containing math functions
 
+A change to README.md file
 ### Copyright
 
 Copyright (c) 2019, Emilie Guidez
